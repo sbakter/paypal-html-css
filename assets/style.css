@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background: #ffffff;
+}
+
+.wrapper {}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/* Header CSS */
+.header {}
+
+.nav-bar {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+
+.nav-bar__logo {
+    width: 100px;
+    height: 80px;
+    background: blue;
+}
+
+.nav-bar__nav {
+    background: red;
+    list-style: none;
+}
+
+.nav-bar__login-signup {
+    background: green;
+    width: 100px;
+    height: 80px;
+}
+
+
+
+/* Services CSS */
+
+
+
+/* Users CSS */
+
+
+
+/* Footer CSS */
